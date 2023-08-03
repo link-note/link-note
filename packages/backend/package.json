@@ -41,7 +41,7 @@
     "@nestjs/typeorm": "^8.0.3",
     "apollo-server-core": "^3.7.0",
     "apollo-server-express": "^3.7.0",
-    "class-validator": "^0.13.2",
+    "class-validator": "^0.14.0",
     "link-note-common": "workspace:common",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.1",

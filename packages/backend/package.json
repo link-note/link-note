@@ -39,7 +39,7 @@
     "@nestjs/schematics": "^8.0.11",
     "@nestjs/serve-static": "^2.2.2",
     "@nestjs/typeorm": "^8.0.3",
-    "apollo-server-core": "^3.7.0",
+    "apollo-server-core": "^3.12.1",
     "apollo-server-express": "^3.7.0",
     "class-validator": "^0.13.2",
     "link-note-common": "workspace:common",
